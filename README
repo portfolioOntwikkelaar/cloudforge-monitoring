@@ -1,0 +1,16 @@
+# CloudForge Monitoring
+
+Monitoring service written in Go.
+
+## Features
+
+- Health endpoint
+- Metrics endpoint
+- Docker support
+- GitHub Actions CI
+- Multi-stage Docker build
+
+## Run locally
+
+```bash
+go run ./cmd/cloudforge-monitoring
